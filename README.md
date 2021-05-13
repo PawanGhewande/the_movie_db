@@ -6,4 +6,4 @@
   3) flutter run
  
  #Screenshot
-    ![alt text](https://github.com/PawanGhewande/the_movie_db/blob/main/screenshot.webp?raw=true
+    ![alt text](https://github.com/PawanGhewande/the_movie_db/blob/main/screenshot.webp)
